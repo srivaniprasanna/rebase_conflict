@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 Devops lab 
 is about to
 Complete
+=======
+moditha
+yaswitha
+geethika
+divya
+prasanna
+>>>>>>> fab7738 (commited)
